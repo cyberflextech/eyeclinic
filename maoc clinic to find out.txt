@@ -1,0 +1,3 @@
+1. General flow of patient from reception to consultation, cashier, lab etc
+2. if under 18, what details are captured e.g ID of parent
+3. When is the consultation fee captured? 
